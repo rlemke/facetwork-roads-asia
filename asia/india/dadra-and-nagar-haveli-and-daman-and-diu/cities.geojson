@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Silvassa","place":"city","population":98266,"tier":2},"geometry":{"type":"Point","coordinates":[73.0045787,20.2736768]}},{"type":"Feature","properties":{"name":"Daman","place":"city","population":35000,"tier":3},"geometry":{"type":"Point","coordinates":[72.833173,20.4169701]}}]}

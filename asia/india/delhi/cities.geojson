@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Delhi","place":"city","population":16787941,"tier":2},"geometry":{"type":"Point","coordinates":[77.2169781,28.6664535]}},{"type":"Feature","properties":{"name":"New Delhi","place":"city","population":249998,"tier":3},"geometry":{"type":"Point","coordinates":[77.2090057,28.6138954]}}]}
