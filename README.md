@@ -4,4 +4,4 @@
 
 Browse: https://rlemke.github.io/facetwork-roads-asia/
 
-This public copy keeps the road tiles (PMTiles) up to zoom 7; the map enlarges them beyond that. Road data (c) OpenStreetMap contributors, ODbL.
+The pages live in this repo; the road tiles (PMTiles, full detail to zoom 14) are served from Cloudflare R2. Road data (c) OpenStreetMap contributors, ODbL.
